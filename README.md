@@ -53,7 +53,7 @@ Le projet "Gestion d'Emploi" est une application Web qui offre les fonctionnalit
 1. Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
 ```
-git clone https://github.com/AsKing07/gestionEmploi.git
+git clone https://github.com/AsKing07/Gestion-Emploi-du-temps-Ecole--Cas-particulier.git
 ```
 
 2. Assurez-vous d'avoir un serveur Web local (par exemple, Apache) avec PHP et MySQL installés.
@@ -62,7 +62,7 @@ git clone https://github.com/AsKing07/gestionEmploi.git
 
 4. Modifiez les informations de connexion à la base de données dans les fichiers PHP situés dans le dossier "Data_base_request_php" pour correspondre à vos paramètres de configuration.
 
-5. Lancez votre serveur Web local et accédez au projet via votre navigateur Web en utilisant l'URL appropriée (par exemple, `http://localhost/gestionEmploi`).
+5. Lancez votre serveur Web local et accédez au projet via votre navigateur Web en utilisant l'URL appropriée (par exemple, `http://localhost/Gestion-Emploi-du-temps-Ecole--Cas-particulier`).
 
 ## Contribuer
 
